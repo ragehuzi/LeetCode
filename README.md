@@ -62,4 +62,12 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ragehuzi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ragehuzi/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ragehuzi/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
