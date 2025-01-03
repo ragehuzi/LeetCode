@@ -38,6 +38,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ragehuzi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2358-number-of-ways-to-split-array](https://github.com/ragehuzi/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ragehuzi/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
@@ -72,5 +73,6 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ragehuzi/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/ragehuzi/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ragehuzi/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
