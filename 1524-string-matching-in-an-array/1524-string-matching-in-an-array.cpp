@@ -66,22 +66,17 @@ public:
     }
     vector<string> stringMatching(vector<string> &words)
     {
-        set<string> duplicate;
+        set<string> result;
         for (int i = 0; i < words.size(); i++)
         {
             for (int j = 0; j < words.size(); j++)
             {
                 if (KMPSearch(words[i], words[j]) && i != j)
                 {
-                    duplicate.insert(words[j]);
+                    result.insert(words[j]);
                 }
             }
         }
-
-        vector<string> result;
-        for (auto i : duplicate)
-            result.push_back(i);
-
-        return result;
+        return vector<string>(result.begin(), result.end());
     }
 };
