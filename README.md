@@ -22,18 +22,22 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/ragehuzi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1285-balance-a-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -115,4 +119,12 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ragehuzi/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
