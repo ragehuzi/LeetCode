@@ -42,6 +42,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ragehuzi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/ragehuzi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/ragehuzi/LeetCode/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ragehuzi/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -71,6 +72,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ragehuzi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/ragehuzi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bucket Sort
 |  |
@@ -158,6 +160,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ragehuzi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -166,6 +169,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 ## Matrix
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/ragehuzi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
