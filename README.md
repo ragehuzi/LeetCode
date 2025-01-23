@@ -44,6 +44,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 | [0347-top-k-frequent-elements](https://github.com/ragehuzi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/ragehuzi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/ragehuzi/LeetCode/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ragehuzi/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1876-map-of-highest-peak](https://github.com/ragehuzi/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -86,6 +87,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ragehuzi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ragehuzi/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ragehuzi/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Quickselect
@@ -154,6 +156,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +169,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ragehuzi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ragehuzi/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Graph
@@ -176,6 +180,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ragehuzi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ragehuzi/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/ragehuzi/LeetCode/tree/master/2145-grid-game) |
@@ -184,4 +189,8 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
