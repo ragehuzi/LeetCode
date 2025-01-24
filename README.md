@@ -155,6 +155,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 ## Depth-First Search
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/ragehuzi/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1285-balance-a-binary-search-tree](https://github.com/ragehuzi/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Stack
@@ -169,12 +170,14 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ragehuzi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0820-find-eventual-safe-states](https://github.com/ragehuzi/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ragehuzi/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/ragehuzi/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Matrix
 |  |
@@ -193,4 +196,8 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ragehuzi/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
