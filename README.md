@@ -58,6 +58,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 | [2691-count-vowel-strings-in-ranges](https://github.com/ragehuzi/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ragehuzi/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ragehuzi/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ragehuzi/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ragehuzi/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ragehuzi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ragehuzi/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ragehuzi/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
