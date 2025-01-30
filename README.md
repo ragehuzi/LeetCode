@@ -180,6 +180,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/ragehuzi/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/ragehuzi/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ragehuzi/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
@@ -187,6 +188,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 | [0820-find-eventual-safe-states](https://github.com/ragehuzi/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/ragehuzi/LeetCode/tree/master/1558-course-schedule-iv) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ragehuzi/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Matrix
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Here i upload all the solutions for the problems i solved on the leetcode.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ragehuzi/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ragehuzi/LeetCode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ragehuzi/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ragehuzi/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
